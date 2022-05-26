@@ -1,5 +1,5 @@
 <h1 align="center">Hi! ✌🏽 I'm Shirley 🚀</h1>
-<h3 style="display: flex; text-align: center">🦄 Front-End Developer | Comunicadora Social 📸 | Digital Designer 🎨</h3>
+<h3 align="center" style="display: flex; text-align: center">🦄 Front-End Developer | Comunicadora Social 📸 | Digital Designer 🎨</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65095938/122179220-e9c88100-ce4c-11eb-8839-d708ba488db9.gif" />
