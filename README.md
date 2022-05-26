@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi! ✌🏽 I'm Shirley 🚀</h1>
+<h3 align="center">👩🏽‍💻 Front-End Developer | Comunicadora Social 📸</h3>
 
-<!--
-**Shinnmar/Shinnmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65095938/122179220-e9c88100-ce4c-11eb-8839-d708ba488db9.gif" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/shirleyramos" target="_blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shirleyramos" height="30" width="40" /></a>
+   <a href="https://twitter.com/shinnmar_" target="_blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shinnmar_" height="30" width="40" /></a>
+  <a href="https://instagram.com/shinnmar" target="_blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shinnmar" height="30" width="40" /></a>
+</p>
