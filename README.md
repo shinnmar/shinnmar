@@ -10,6 +10,8 @@
 </p>
 
 <p align="center" dir="auto">
+  
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=Shinnmar&theme=react&show_icons=true&count_private=true&include_all_commits=true)
   <img src="https://github-readme-stats.vercel.app/api?username=Shinnmar&theme=react&show_icons=true&count_private=true&include_all_commits=true" style="max-width=100%;" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinnmar&layout=compact&theme=react" style="max-width=100%;" />
