@@ -2,7 +2,7 @@
 <!-- <h3 align="center" style="display: flex; text-align: center">🦄 Front-End Developer | Comunicadora Social 📸 | Digital Designer 🎨</h3> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=5500&color=51cbee&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Web+Dev%2C+Designer+%26+Communicator+%3A)"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=5500&color=51cbee&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Web+Dev%2C+Designer+%26+Communicator+%3A)"/>
 </p>
 
 <p align="center">
