@@ -9,7 +9,7 @@
   <img src="https://user-images.githubusercontent.com/65095938/122179220-e9c88100-ce4c-11eb-8839-d708ba488db9.gif" />
 </p>
 
-<p align="left" dir="auto">
+<p align="center" dir="auto">
   <img src="https://github-readme-stats.vercel.app/api?username=Shinnmar&theme=react&show_icons=true&count_private=true&include_all_commits=true" style="max-width=100%;" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinnmar&layout=compact&theme=react" style="max-width=100%;" />
