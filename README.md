@@ -11,3 +11,5 @@
    <a href="https://twitter.com/shinnmar_" target="_blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shinnmar_" height="30" width="40" /></a>
   <a href="https://instagram.com/shinnmar" target="_blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shinnmar" height="30" width="40" /></a>
 </p>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Shinnmar&theme=react&show_icons=true&count_private=true)
