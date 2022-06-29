@@ -17,11 +17,11 @@
 </p>
 
 
-<!--   ![Github stats](https://github-readme-stats.vercel.app/api?username=Shinnmar&theme=react&show_icons=true&count_private=true) -->
+<!--   ![Github stats](https://github-readme-stats.vercel.app/api?username=shirleyrm&theme=react&show_icons=true&count_private=true) -->
 <!-- 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Shinnmar&theme=react&show_icons=true&count_private=true&include_all_commits=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=shirleyrm&theme=react&show_icons=true&count_private=true&include_all_commits=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinnmar&layout=compact&theme=react) -->
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shirleyrm&layout=compact&theme=react) -->
 
 <!-- <h3 align="center">Connect with me:</h3>
 <p align="center">
