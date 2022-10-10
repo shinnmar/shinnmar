@@ -21,7 +21,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/shirleyramos" style="margin-right: 10px;" target="_blank"><img align="center" src="https://github.com/shinnmar/images-in-readme/blob/master/linkedin.png" alt="shirleyramos" height="auto" width="32" /></a>
-   <a href="https://twitter.com/shinnmar_" style="margin-right: 10px !important;" target="_blank"><img align="center" src="https://github.com/shinnmar/images-in-readme/blob/master/twitter.png" alt="shinnmar_" height="auto" width="32" /></a>
+   <a href="https://twitter.com/shinnmar_" target="_blank"><img align="center" src="https://github.com/shinnmar/images-in-readme/blob/master/twitter.png" alt="shinnmar_" height="auto" width="32" /></a>
   <a href="https://instagram.com/shinnmar" target="_blank"><img align="center" src="https://github.com/shinnmar/images-in-readme/blob/master/instagram.png" alt="shinnmar" height="auto" width="32" /></a>
 </p>
 
