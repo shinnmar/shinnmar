@@ -21,15 +21,15 @@ I'm a person with creative mind who loves remote work and learn something new ev
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   </p>
 </div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/shirleyramos" style="margin-right: 10px;" target="_blank"><img align="center" src="https://github.com/shinnmar/images-in-readme/blob/master/linkedin.png" alt="shirleyramos" height="auto" width="32" /></a>
-   <a href="https://twitter.com/shinnmar_" target="_blank"><img align="center" src="https://github.com/shinnmar/images-in-readme/blob/master/twitter.png" alt="shinnmar_" height="auto" width="32" /></a>
+  <a href="https://linkedin.com/in/shirleyramos" style="margin-right: 10px;" target="_blank"><img align="center" src="https://github.com/shinnmar/images-in-readme/blob/master/linkedin.png" alt="shirleyramos" height="auto" width="32" /></a>&nbsp;
+   <a href="https://twitter.com/shinnmar_" target="_blank"><img align="center" src="https://github.com/shinnmar/images-in-readme/blob/master/twitter.png" alt="shinnmar_" height="auto" width="32" /></a>&nbsp;
   <a href="https://instagram.com/shinnmar" target="_blank"><img align="center" src="https://github.com/shinnmar/images-in-readme/blob/master/instagram.png" alt="shinnmar" height="auto" width="32" /></a>
 </p>
 
