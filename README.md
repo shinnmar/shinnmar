@@ -9,11 +9,21 @@
   <img src="https://user-images.githubusercontent.com/65095938/122179220-e9c88100-ce4c-11eb-8839-d708ba488db9.gif" />
 </p>
 
-<p align="center" dir="auto">
-  <code>I'm a person with creative mind who loves remote work and learn something new every day.</code>
-</p>
+## 🦄 About me
+I'm a person with creative mind who loves remote work and learn something new every day.
 
+### :hammer_and_wrench: Languages and Tools
 
+<div>
+  <p align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  </p>
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
