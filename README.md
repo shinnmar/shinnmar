@@ -13,7 +13,7 @@
 ## 🦄 About me
 I'm a person with creative mind who loves remote work and learn something new every day.
 
-### 🚀 Dev stack
+### 🚀 Unicorn stack
 
 <div>
   <p align="center">
@@ -36,11 +36,17 @@ I'm a person with creative mind who loves remote work and learn something new ev
   </p>
 </div>
 
-### 🖌️ Design stack
+<div align="center">
 
+<a href="">![Figma](https://img.shields.io/badge/figma-000000.svg?style=flat&logo=figma&logoColor=white)</a>
+<a href="">![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)</a>
+<a href="">![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-342003.svg?style=flat&logo=adobeillustrator&logoColor=23FF9A00)</a> 
+<a href="">![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-040B4F.svg?style=flat&logo=adobephotoshop&logoColor=0FBFE7)</a> 
+<a href="">![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-5E0D74.svg?style=flat&logo=Adobe%20Dreamweaver&logoColor=#FF61F6)</a> 
+<a href="">![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-3D0519?style=flat&logo=adobeindesign&logoColor=F34A88)</a> 
+<a href="">![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-101975.svg?style=flat&logo=Adobe%20Lightroom&logoColor=0FBFE7)</a> <!--![Adobe Premiere Pro] (https://img.shields.io/badge/Adobe%20Premiere%20Pro-22196F.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=998FE9) !-->
 
-![Figma](https://img.shields.io/badge/figma-000000.svg?style=flat&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)  ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-342003.svg?style=flat&logo=adobeillustrator&logoColor=23FF9A00) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-040B4F.svg?style=flat&logo=adobephotoshop&logoColor=0FBFE7) 
-![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-5E0D74.svg?style=flat&logo=Adobe%20Dreamweaver&logoColor=#FF61F6) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-3D0519?style=flat&logo=adobeindesign&logoColor=F34A88) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-101975.svg?style=flat&logo=Adobe%20Lightroom&logoColor=0FBFE7) <!--![Adobe Premiere Pro] (https://img.shields.io/badge/Adobe%20Premiere%20Pro-22196F.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=998FE9) !-->
+</div>
 
 <div>
   <p align="center">
