@@ -12,7 +12,7 @@
 ## 🦄 About me
 I'm a person with creative mind who loves remote work and learn something new every day.
 
-### :hammer_and_wrench: Dev stack
+### 💻 Dev stack
 
 <div>
   <p align="center">
