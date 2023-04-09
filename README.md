@@ -31,7 +31,8 @@ I'm a person with creative mind who loves remote work and learn something new ev
 <div>
   <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  </p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Ps" width="40" height="40"/>&nbsp;
+</p>
 </div>
 
 <h3 align="center">Connect with me:</h3>
