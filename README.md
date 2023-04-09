@@ -26,7 +26,7 @@ I'm a person with creative mind who loves remote work and learn something new ev
   </p>
 </div>
 
-### :hammer_and_wrench: Design stack
+### 🖌️ Design stack
 
 <div>
   <p align="center">
