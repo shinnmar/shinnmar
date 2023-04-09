@@ -11,9 +11,11 @@
 </p>
 
 ## 🦄 About me
-I'm a person with creative mind who loves remote work and learn something new every day.
+<div align="center">
+I'm a person with creative mind who loves remote work and learn something new every day :)
+</div>
 
-### 🚀 Unicorn stack
+### 🚀 My unicorn stack
 
 <div>
   <p align="center">
