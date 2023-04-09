@@ -10,7 +10,7 @@
 </p>
 
 <p align="center" dir="auto">
-  I'm Web Developer and Designer with a creative mind who loves remote work and learn something new every day.
+  I'm a person with creative mind who loves remote work and learn something new every day.
 </p>
 
 
