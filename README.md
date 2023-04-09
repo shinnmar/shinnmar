@@ -10,7 +10,7 @@
 </p>
 
 <p align="center" dir="auto">
-  I'm a person with creative mind who loves remote work and learn something new every day.
+  <code>I'm a person with creative mind who loves remote work and learn something new every day.</code>
 </p>
 
 
