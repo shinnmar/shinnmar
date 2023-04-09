@@ -13,7 +13,7 @@
 ## 🦄 About me
 I'm a person with creative mind who loves remote work and learn something new every day.
 
-### 🚀 My dev stack
+### 🚀 Dev stack
 
 <div>
   <p align="center">
@@ -36,7 +36,7 @@ I'm a person with creative mind who loves remote work and learn something new ev
   </p>
 </div>
 
-### 🖌️ Design
+### 🖌️ Design stack
 
 
 ![Figma](https://img.shields.io/badge/figma-000000.svg?style=flat&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)  ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-342003.svg?style=flat&logo=adobeillustrator&logoColor=23FF9A00) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-040B4F.svg?style=flat&logo=adobephotoshop&logoColor=0FBFE7) 
