@@ -48,9 +48,12 @@ I'm a person with creative mind who loves remote work and learn something new ev
 </p>
 </div>
 
-  ![](https://github-readme-stats.vercel.app/api?username=shinnmar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=shinnmar&theme=tokyonight&hide_border=true)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/username=shinnmar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=shinnmar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shinnmar&theme=tokyonight&hide_border=true">
+   <img src="https://github-readme-stats.vercel.app/api?username=shinnmar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
+</p>
 
 <!-- <h3 align="center">Connect with me:</h3>
 <p align="center">
