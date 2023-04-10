@@ -80,7 +80,5 @@ I'm a person with creative mind who loves remote work and learn something new ev
 <br>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=shinnmar&icon=0&color=6)](https://visitcount.itsvg.in)
-
 
 
