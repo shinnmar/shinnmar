@@ -81,7 +81,9 @@ I'm a person with creative mind who loves remote work and learn something new ev
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+   <br>
+<a href="">[![](https://visitcount.itsvg.in/api?id=shinnmar&icon=0&color=6)](https://visitcount.itsvg.in)</a>
 </div>
 
 
-[![](https://visitcount.itsvg.in/api?id=shinnmar&icon=0&color=0)](https://visitcount.itsvg.in)
+
