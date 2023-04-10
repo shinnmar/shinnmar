@@ -64,7 +64,7 @@ I'm a person with creative mind who loves remote work and learn something new ev
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=shinnmar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shinnmar&theme=tokyonight&hide_border=true"> <br>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=shinnmar&theme=tokyonight&hide_border=true"> <br> -->
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinnmar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
@@ -74,11 +74,6 @@ I'm a person with creative mind who loves remote work and learn something new ev
    <a href="https://twitter.com/shinnmar_" target="_blank"><img align="center" src="https://github.com/shinnmar/images-in-readme/blob/master/twitter.png" alt="shinnmar_" height="auto" width="32" /></a>&nbsp;
   <a href="https://instagram.com/shinnmar" target="_blank"><img align="center" src="https://github.com/shinnmar/images-in-readme/blob/master/instagram.png" alt="shinnmar" height="auto" width="32" /></a>
 </p> -->
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-<br>
-</div>
 
 
 
