@@ -50,17 +50,16 @@ I'm a person with creative mind who loves remote work and learn something new ev
 
 </div>
 
-<div>
-  <p align="center">
-  <!--
-   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="Xd" alt="Xd" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="AI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Ps" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere Pro" alt="Premiere Pro" width="40" height="40"/>&nbsp; !-->
-</p>
-</div>
+<div align="center">
+   
+   ![shinnmar's Stats](https://github-readme-stats.vercel.app/api?username=shinnmar&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+   
+   ![shinnmar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shinnmar&theme=tokyonight&hide_border=false)
+   
+   ![shinnmar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinnmar&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
+
+</div>
 
 <!-- <h3 align="center">Connect with me:</h3>
 <p align="center">
