@@ -52,10 +52,10 @@ I'm a person with creative mind who loves remote work and learn something new ev
 
 <div align="center">
    
-   ![shinnmar's Stats](https://github-readme-stats.vercel.app/api?username=shinnmar&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+   ![shinnmar's Stats](https://github-readme-stats.vercel.app/api?username=shinnmar&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
    
    
-   ![shinnmar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinnmar&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
+   ![shinnmar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinnmar&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
 
 </div>
