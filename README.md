@@ -3,7 +3,7 @@
 
 <p align="center">
    <!--  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=5500&color=BB3DF7FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Web+Dev%2C+UI+Designer+%26+Communicator+%3A)"/> -->
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=5500&color=51cbee&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Web+Dev%2C+UI+Designer+%26+Communicator+%3A)"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=5500&color=9873f0&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Web+Dev%2C+UI+Designer+%26+Communicator+%3A)"/>
 </p>
 
 <p align="center">
@@ -52,11 +52,10 @@ I'm a person with creative mind who loves remote work and learn something new ev
 
 <div align="center">
    
-   ![shinnmar's Stats](https://github-readme-stats.vercel.app/api?username=shinnmar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+   ![shinnmar's Stats](https://github-readme-stats.vercel.app/api?username=shinnmar&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
    
-   ![shinnmar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shinnmar&theme=tokyonight&hide_border=true)
    
-   ![shinnmar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinnmar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+   ![shinnmar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinnmar&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
 
 
 </div>
