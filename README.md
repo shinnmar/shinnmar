@@ -15,7 +15,7 @@
 I'm a person with creative mind who loves remote work and learn something new every day
 </div>
 
-### 🚀 My stack
+### 🚀 Stack
 
 <div>
   <p align="center">
