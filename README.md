@@ -12,7 +12,7 @@
 
 ## 🦄 About me
 <div align="center">
-I'm a person with creative mind who loves remote work and learn something new every day
+Hello there! I'm a Front-End Developer & UI Designer. I'm creative, responsible and passionate about CSS 💜
 </div>
 
 ### 🚀 Stack
