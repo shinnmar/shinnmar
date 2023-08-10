@@ -12,7 +12,7 @@
 
 ## 🦄 About me
 <div align="center">
-Hello there! I'm a Front-End Developer & UI Designer. I'm creative, responsible and passionate about CSS 💜
+Hello there! I'm a Front-End Developer & UX/UI Designer. I'm creative, responsible and passionate about CSS 💜
 </div>
 
 ### 🚀 Stack
