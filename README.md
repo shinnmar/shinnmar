@@ -1,4 +1,4 @@
-<h1 align="center">🎐Hi! I'm Shirley</h1>
+<h1 align="center">Hi! I'm Shirley 🎐</h1>
 <!-- <h3 align="center" style="display: flex; text-align: center">🦄 Front-End Developer | Comunicadora Social 📸 | Digital Designer 🎨</h3> -->
 
 <p align="center">
