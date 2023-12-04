@@ -3,7 +3,7 @@
 
 <p align="center">
    <!--  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=5500&color=BB3DF7FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Web+Dev%2C+UI+Designer+%26+Communicator+%3A)"/> -->
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=5500&color=9873f0&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Front-End+Developer+%26+UX/UI+Designer+:)"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=5500&color=4ec6f2&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Front-End+Developer+%26+UX/UI+Designer+:)"/>
 </p>
 
 <p align="center">
