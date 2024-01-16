@@ -2,7 +2,6 @@
 <!-- <h3 align="center" style="display: flex; text-align: center">🦄 Front-End Developer | Comunicadora Social 📸 | Digital Designer 🎨</h3> -->
 
 <p align="center">
-   <!--  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=5500&color=BB3DF7FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Web+Dev%2C+UI+Designer+%26+Communicator+%3A)"/> -->
 <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=5500&color=4ec6f2&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Front-End+Developer+%26+UX/UI+Designer+:)"/>
 </p>
 
@@ -45,7 +44,7 @@ Hello there! I'm a Front-End Developer & UX/UI Designer. I'm creative, responsib
 <a href="">![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-040B4F.svg?style=flat&logo=adobephotoshop&logoColor=0FBFE7)</a> 
 <a href="">![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-5E0D74.svg?style=flat&logo=Adobe%20Dreamweaver&logoColor=#FF61F6)</a> 
 <a href="">![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-3D0519?style=flat&logo=adobeindesign&logoColor=F34A88)</a> 
-<a href="">![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-101975.svg?style=flat&logo=Adobe%20Lightroom&logoColor=0FBFE7)</a> <!--![Adobe Premiere Pro] (https://img.shields.io/badge/Adobe%20Premiere%20Pro-22196F.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=998FE9) !-->
+<a href="">![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-101975.svg?style=flat&logo=Adobe%20Lightroom&logoColor=0FBFE7)</a>
 
 </div>
 
@@ -59,12 +58,6 @@ Hello there! I'm a Front-End Developer & UX/UI Designer. I'm creative, responsib
 
 </div>
 
-<!-- <h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/shirleyramos" style="margin-right: 10px;" target="_blank"><img align="center" src="https://github.com/shinnmar/images-in-readme/blob/master/linkedin.png" alt="shirleyramos" height="auto" width="32" /></a>&nbsp;
-   <a href="https://twitter.com/shinnmar_" target="_blank"><img align="center" src="https://github.com/shinnmar/images-in-readme/blob/master/twitter.png" alt="shinnmar_" height="auto" width="32" /></a>&nbsp;
-  <a href="https://instagram.com/shinnmar" target="_blank"><img align="center" src="https://github.com/shinnmar/images-in-readme/blob/master/instagram.png" alt="shinnmar" height="auto" width="32" /></a>
-</p> -->
 
 
 
