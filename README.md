@@ -28,10 +28,11 @@ Hello there! I'm a Front-End Developer & UX/UI Designer. I'm creative, responsib
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" alt="PHP" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue JS" alt="Vue JS" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="30" height="30"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="30" height="30"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="FileZilla" alt="FileZilla" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="30" height="30"/>&nbsp;
   </p>
 </div>
@@ -43,7 +44,6 @@ Hello there! I'm a Front-End Developer & UX/UI Designer. I'm creative, responsib
 <a href="">![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-342003.svg?style=flat&logo=adobeillustrator&logoColor=23FF9A00)</a> 
 <a href="">![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-040B4F.svg?style=flat&logo=adobephotoshop&logoColor=0FBFE7)</a> 
 <a href="">![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-5E0D74.svg?style=flat&logo=Adobe%20Dreamweaver&logoColor=#FF61F6)</a> 
-<a href="">![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-3D0519?style=flat&logo=adobeindesign&logoColor=F34A88)</a> 
 <a href="">![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-101975.svg?style=flat&logo=Adobe%20Lightroom&logoColor=0FBFE7)</a>
 
 </div>
