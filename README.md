@@ -55,7 +55,6 @@ Hello there! I'm a Front-End Developer & UI Designer. I'm creative, responsible 
    
    ![shinnmar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinnmar&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
-
 </div>
 
 
